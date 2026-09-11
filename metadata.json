@@ -1,0 +1,7 @@
+{
+  "name": "PaPrint & Copy POS",
+  "description": "Point of sale and order management system for PaPrint & Copy with transaction confirmation, stock tracking for physical merchandise, cash receipts journal, and receipt printing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
